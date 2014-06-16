@@ -20,7 +20,7 @@ This is very basic:
 
 The following are changes made from the original generated scaffold:
 
-```HTML
+```HTML.ERB
 
 <!-- application.html.erb -->
 
