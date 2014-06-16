@@ -46,6 +46,7 @@ The following are changes made from the original generated scaffold:
 </body>
 </html>
 
+```
 
 ```Ruby
 #comic.rb
