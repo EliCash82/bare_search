@@ -14,7 +14,7 @@ This is very basic:
 
 - I added twitter-bootstrap-rails gem, therubyracer gem, and less-rails gem
 
-- I followed the bulk of the instructions suggested on this page: [http://www.jorgecoca.com/buils-search-form-ruby-rails/](http://www.jorgecoca.com/buils-search-form-ruby-rails/_)
+- I followed the bulk of the instructions suggested on this page: [http://www.jorgecoca.com/buils-search-form-ruby-rails](http://www.jorgecoca.com/buils-search-form-ruby-rails)
 
 From here I plan to look more closely at Railscast 343 and update this functionality to be PostGRES grounded search.  
 
