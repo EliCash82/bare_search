@@ -1,0 +1,10 @@
+<% @comics.each do |comic| %>
+  <div class="comic">
+    <h1 class="comic-name"><%= link_to comic.name, comic %></h1>
+    <p class="comic-content"><%= comic.summary %>
+  </div>
+<% end %>
+
+<br>
+
+<%= link_to 'New Comic', new_comic_path %>
